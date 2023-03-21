@@ -1,13 +1,13 @@
 # Zeichenfolge-Generator mit Windows Forms
 
-Dieses Windows Forms Projekt ist ein einfaches Tool zur Generierung von Zeichenfolgen. Es ist besonders nützlich für die Erstellung von sicheren Passwörtern oder für andere Zwecke, bei denen eine zufällige Zeichenfolge benötigt wird.
+Der Zeichenfolgen Generator ist ein einfaches Windows Forms Projekt, das eine zufällige Zeichenfolge generiert. Die Länge der Zeichenfolge kann individuell festgelegt werden, wobei eine Länge von mindestens 14 Zeichen empfohlen wird, um ein sicheres Passwort zu generieren.
 
 ## Funktionen
-- Wählen Sie die Länge der Zeichenfolge ab 14 Zeichen. Damit wird sichergestellt, dass die generierte Zeichenfolge sicher genug ist, um den aktuellen Anforderungen an Passwortsicherheit gerecht zu werden.
+- Die Verwendung von Sonderzeichen ist optional und kann die Unregelmäßigkeit der generierten Zeichenfolge erhöhen.
 
-- Entscheiden Sie, ob Sonderzeichen in der generierten Zeichenfolge enthalten sein sollen oder nicht. Durch Hinzufügen von Sonderzeichen wird die Zeichenfolge noch sicherer und schwieriger zu erraten.
-
-- Verwenden Sie den Copy Button, um die generierte Zeichenfolge schnell und einfach in die Zwischenablage zu kopieren und direkt zu verwenden.
+- Das Programm enthält einen Copy Button, um die generierte Zeichenfolge schnell und einfach in die Zwischenablage zu kopieren.
 
 # Anmerkung für potenzielle Tester
-Es ist möglich, dass Antivirensoftware wie Windows Defender das Ausführen des Programms blockiert. Ich versichere jedoch, dass das Programm virenfrei ist. Ich empfehle, eine Virtual Machine zu verwenden, um das Programm zu testen und Antivirenprogramme zu umgehen, um die Sicherheit Ihres Systems weiterhin zu gewährleisten.
+Bitte beachten Sie, dass Windows Defender oder andere Antivirensoftware das Ausführen des Programms möglicherweise blockieren. Das Programm ist jedoch virenfrei und kann in einer virtuellen Maschine ausgeführt werden, um Antivirenprogramme zu umgehen und die Sicherheit des eigenen Systems zu gewährleisten.
+
+Haftungsausschluss: Die Verwendung dieses Programms erfolgt auf eigene Gefahr. Der Entwickler haftet nicht für Schäden, die durch die Verwendung dieses Programms entstehen können. Bitte stellen Sie sicher, dass das Programm in einer sicheren Umgebung ausgeführt wird.
